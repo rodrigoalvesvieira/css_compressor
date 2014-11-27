@@ -42,4 +42,6 @@ compressor.compress_raw(content)
 
 ## License
 
+[MIT]
+
 [MIT]: https://github.com/rodrigoalvesvieira/css_compressor/blob/master/LICENSE.txt
