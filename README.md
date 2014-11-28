@@ -40,6 +40,14 @@ content = "
 compressor.compress_raw(content)
 ```
 
+## Tests
+
+To run the entire test suite, from the project root directory, run:
+
+```shell
+$ rake
+```
+
 ## License
 
 [MIT]
